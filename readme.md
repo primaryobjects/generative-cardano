@@ -3,6 +3,8 @@ Generating Beautiful Images from the Blockchain
 
 An example of visualizing Cardano transactions on the blockchain using AI via LLMs.
 
+![Screenshot of a generated image from a Cardano blockchain transaction of 10,000 ADA.](images/1000.png)
+
 ## What is it?
 
 This project is an example of generating awesome images from the Cardano blockchain by sending details of a transaction to an AI LLM for returning an image.
