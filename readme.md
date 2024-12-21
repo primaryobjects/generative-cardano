@@ -7,7 +7,7 @@ An example of visualizing Cardano transactions on the blockchain using AI via LL
 
 ## What is it?
 
-This project is an example of generating awesome images from the Cardano blockchain by sending details of a transaction to an AI LLM for returning an image.
+This project is an example of generating awesome [images](images) from the Cardano blockchain by sending details of a transaction to an AI LLM for returning an image.
 
 Transaction details that are sent along in the prompt to the AI incude the transaction hash, sender wallet address, receiver wallet address, and amount of ADA. The resulting prompt is then used to generate an image through the LLM. The final step draws text on the image to show the transaction details.
 
